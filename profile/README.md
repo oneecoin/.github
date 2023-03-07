@@ -8,6 +8,6 @@
 
 ## Documentation
 
--   [채굴하는 방법](https://github.com/oneecoin/.github/blob/main/doc/miner.md)
 -   [지갑 사용 법](https://github.com/oneecoin/.github/blob/main/doc/wallet.md)
 -   [블록 구조](https://github.com/oneecoin/.github/blob/main/doc/block.md)
+-   [채굴하는 방법](https://github.com/oneecoin/.github/blob/main/doc/miner.md)
